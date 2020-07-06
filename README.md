@@ -1,4 +1,4 @@
-# University of Texas at Austin => (Application for Office Hours)
+# UT Austin Office Hours Application
 An application that streamlines office hours and connectivity between professors and students. 
 
 CORE FEATURES (In Construction):
